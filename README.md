@@ -15,6 +15,8 @@
 五. [以 Windows Service 模式執行](#section5)  
 [附錄一: 將 JokeWorkerService 放在登入時執行](#sectionA)
 
+<a href="https://github.com/jasper-lai/20240330_JokeWorkerServiceTrayIcon" target="_blank">範例由此下載</a>.  
+
 <!-- more -->  
 
 ## 一. 開發過程 <a id="section1"></a>
